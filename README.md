@@ -10,8 +10,6 @@
 
 <!-- Profile views + social badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=NoBrain-UI&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-  &nbsp;
   <a href="https://www.linkedin.com/in/anik-kumar-6a8397287/">
     <img src="https://img.shields.io/badge/LinkedIn-Anik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
