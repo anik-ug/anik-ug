@@ -1,114 +1,170 @@
-<div align="center">
+# 👋 Hi, I'm Anik Kumar
 
-<!-- Animated banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anik%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20Data%20Structures&descAlignY=58&descSize=18&animation=fadeIn" />
+### Backend Developer | Java • Spring Boot • MERN Stack | DSA Enthusiast
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Pre-Final+Year+%40+IIIT+Ranchi+%F0%9F%8F%AB;Java+Spring+Boot+%2B+MERN+Stack+Dev+%F0%9F%9A%80;Building+Scalable+%26+Production-Grade+Systems;550%2B+DSA+Problems+Solved+%F0%9F%94%A5;Open+to+Collaborate+%E2%9C%A8" alt="Typing SVG" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1f1c2c,50:928DAB,100:1f1c2c&text=Anik%20Kumar&fontColor=ffffff&fontSize=55&animation=fadeIn" />
+</p>
 
-<br/>
-
-<!-- Profile views + social badges -->
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/anik-kumar-6a8397287/">
-    <img src="https://img.shields.io/badge/LinkedIn-Anik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="mailto:anik.kumar.iiitr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Anik.2019-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-</div>
+---
+
+# 🚀 About Me
+
+* 🎓 B.Tech (Electronics & Communication Engineering) at **IIIT Ranchi**
+* 💻 Passionate about **Backend Development** and **Scalable Systems**
+* 🌱 Currently learning:
+
+  * Spring Boot Microservices
+  * Docker & Kubernetes
+  * System Design
+  * AWS
+* 🧩 Solved **600+ DSA Problems**
+* 🤝 Open to Backend Developer Internships and Software Engineering roles
 
 ---
 
-## 🧠 About Me
+# 🛠 Tech Stack
 
-```java
-public class Anik extends Developer {
+### Languages
 
-    String college    = "IIIT Ranchi — ECE (B.Tech, 2023–2027)";
-    String location   = "Nawada, BIHAR, India 🇮🇳";
-    float  cgpa       = 7.72f;
-    int    dsaProblems = 600;  // and counting 💪
+<p>
+<img src="https://skillicons.dev/icons?i=java,javascript,python,c" />
+</p>
 
-    String[] currentlyLearning = {
-        "Microservices Architecture",
-        "Kubernetes & Advanced Cloud Deployments",
-        "System Design Patterns"
-    };
+### Backend
 
-    String[] coreStack = {
-        "Java + Spring Boot",
-        "MERN Stack (MongoDB, Express, React, Node.js)",
-        "PostgreSQL", "Docker", "JWT Auth", "RabbitMQ"
-    };
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
 
-    String funFact() {
-        return "I turn caffeine into scalable production-grade systems ☕→🚀";
-    }
-}
-```
+### Frontend
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
 
-## 🏆 Achievements & Competitive Programming
+### Database
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
+</p>
 
-| 🏅 Achievement | 📊 Detail |
-|---|---|
-| 🎯 JEE Mains | **Top 5 Percentile** |
-| 🟢 GeeksforGeeks | **3-Star Coder · Rating 1635** |
-| 💻 DSA Problems | **550+ solved** on LeetCode & GFG |
-| 📊 WorldQuant BRAIN | **20 simulations** on alpha model development |
-| 🏆 HackerRank | **90%+ score** in Java, SQL & Problem Solving |
+### DevOps & Tools
 
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anik-ug&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies" />
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,intellij,vscode" />
+</p>
 
 ---
 
-## ⚡ Tech Stack & Tools
+# 📌 Featured Projects
 
-<div align="center">
+## 🚀 Distributed Task Queue System
 
-### 🔧 Languages
-<img src="https://skillicons.dev/icons?i=java,javascript,python,c&theme=dark" />
+**Tech Stack:** Java • Spring Boot • RabbitMQ • Docker • MySQL
 
-### 🚀 Frameworks & Runtime
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,express&theme=dark" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase&theme=dark" />
-
-### ☁️ Cloud, DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,linux,git,github,postman,vscode,intellij&theme=dark" />
-
-</div>
-
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anik-ug&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik-ug&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,scss" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anik-ug&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anik-ug&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</div>
+* Producer–Consumer Architecture
+* Asynchronous Task Processing
+* Retry Mechanism
+* Docker Compose
+* REST APIs
+* Layered Architecture
 
 ---
 
+## 🛒 E-Commerce Backend
+
+**Tech Stack:** Spring Boot • PostgreSQL • JWT • Docker
+
+* Secure Authentication
+* Product & Order APIs
+* RESTful Architecture
+* Database Integration
+
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+## 🌐 MERN Stack Applications
+
+**Tech Stack:** MongoDB • Express • React • Node.js
+
+* Full Stack Development
+* Authentication
+* Responsive UI
+* REST APIs
+
+---
+
+# 🏆 Achievements
+
+* ⭐ 3★ GeeksforGeeks Coder
+* 💻 600+ DSA Problems Solved
+* 📊 WorldQuant BRAIN Simulations
+* 🚀 Strong Interest in Backend Engineering & Distributed Systems
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+* Spring Cloud
+* Microservices
+* RabbitMQ
+* Redis
+* Docker
+* Kubernetes
+* AWS
+* System Design
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/anik-kumar-6a8397287/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:anik.kumar.iiitr@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ *Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.*
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1f1c2c,50:928DAB,100:1f1c2c"/>
+</p>
