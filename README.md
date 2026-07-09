@@ -68,7 +68,7 @@ public class Anik extends Developer {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NoBrain-UI&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anik-ug-UI&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies" />
 </div>
 
 ---
