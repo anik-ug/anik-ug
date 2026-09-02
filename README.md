@@ -1,114 +1,254 @@
 <div align="center">
 
-<!-- Animated banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anik%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20Data%20Structures&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- PORTRAIT
+     Add your image as assets/anik.png and generate the dot-matrix SVG.
+     Example:
+       python scripts/dotify.py assets/anik.png -o assets/portrait \
+         --cols 100 --equalize --detail 0.5 --color
+-->
+<img src="assets/portrait.svg" width="300" alt="Anik Kumar, rendered as a dot matrix">
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Final+Year+%40+IIIT+Ranchi+%F0%9F%8F%AB;Java+Spring+Boot+%2B+MERN+Stack+Dev+%F0%9F%9A%80;Building+Scalable+%26+Production-Grade+Systems;600%2B+DSA+Problems+Solved+%F0%9F%94%A5;Open+to+Collaborate+%E2%9C%A8" alt="Typing SVG" />
+<br>
 
-<br/>
+<!-- NAME / TAGLINE -->
+<a href="https://github.com/anik-ug">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Anik+Kumar;Backend+Developer+%26+Full+Stack+Engineer;Java+%7C+Spring+Boot+%7C+MERN+Stack;01100011+01101111+01100100+01100101" alt="typing banner">
+</a>
 
-<!-- Profile views + social badges -->
-<p>
-  <a href="https://www.linkedin.com/in/anik-kumar-6a8397287/">
-    <img src="https://img.shields.io/badge/LinkedIn-Anik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:anik.kumar.iiitr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Anik.2019-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br>
+
+<!-- SOCIALS -->
+<a href="https://www.linkedin.com/in/anik-kumar-6a8397287/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:anik.kumar.iiitr@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://github.com/anik-ug">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<!-- Add these when you have public profiles -->
+<!--
+<a href="YOUR_LEETCODE_LINK">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+</a>
+
+<a href="YOUR_GFG_LINK">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+</a>
+-->
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=anik-ug&style=flat&color=39d353&label=profile+views" alt="profile views">
 
 </div>
 
 ---
 
-## 🧠 About Me
+## `~/` whoami
 
-```java
-public class Anik extends Developer {
-
-    String college    = "IIIT Ranchi — ECE (B.Tech, 2023–2027)";
-    String location   = "Nawada, BIHAR, India 🇮🇳";
-    float  cgpa       = 7.72f;
-    int    dsaProblems = 600;  // and counting 💪
-
-    String[] currentlyLearning = {
-        "Microservices Architecture",
-        "Kubernetes & Advanced Cloud Deployments",
-        "System Design Patterns"
-    };
-
-    String[] coreStack = {
-        "Java + Spring Boot",
-        "MERN Stack (MongoDB, Express, React, Node.js)",
-        "PostgreSQL", "Docker", "JWT Auth", "RabbitMQ"
-    };
-
-    String funFact() {
-        return "I turn caffeine into scalable production-grade systems ☕→🚀";
-    }
-}
+```console
+$ cat about.txt
 ```
 
----
+Hi, I'm **Anik Kumar**. I build backend systems, design APIs, and occasionally spend too much time optimizing solutions that already passed all test cases.
 
-## 🏆 Achievements & Competitive Programming
+- 🎓 Final-year B.Tech student at **IIIT Ranchi**
+- 🚀 Building scalable applications with **Java, Spring Boot, and the MERN Stack**
+- 🧠 Solved **600+ DSA problems** across LeetCode and GeeksforGeeks
+- 🌱 Currently learning **Microservices, System Design, Kubernetes, and Cloud Architecture**
+- 💻 Interested in backend engineering, distributed systems, and building production-ready software
+- ☕ Fun fact: **I turn caffeine into code and debugging sessions into learning experiences.**
 
-<div align="center">
-
-| 🏅 Achievement | 📊 Detail |
-|---|---|
-| 🎯 JEE Mains | **Top 5 Percentile** |
-| 🟢 GeeksforGeeks | **3-Star Coder · Rating 1635** |
-| 💻 DSA Problems | **550+ solved** on LeetCode & GFG |
-| 📊 WorldQuant BRAIN | **20 simulations** on alpha model development |
-| 🏆 HackerRank | **90%+ score** in Java, SQL & Problem Solving |
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anik-ug&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies" />
-</div>
-
----
-
-## ⚡ Tech Stack & Tools
+<br>
 
 <div align="center">
 
-### 🔧 Languages
-<img src="https://skillicons.dev/icons?i=java,javascript,python,c&theme=dark" />
+## `~/` toolbox
 
-### 🚀 Frameworks & Runtime
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,python,c,spring,react,nodejs,express,postgres,mongodb,docker,kubernetes,aws,nginx,linux,git,github,postman,idea,vscode&perline=10" alt="tech stack">
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase&theme=dark" />
-
-### ☁️ Cloud, DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,linux,git,github,postman,vscode,intellij&theme=dark" />
-
-</div>
-
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anik-ug&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik-ug&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,scss" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anik-ug&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anik-ug&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </div>
 
 ---
 
+<div align="center">
+
+## `~/` skill radar
+
+<table>
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<!-- Self-rated technical skill radar -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+  <img src="assets/radar-dark.svg" width="400" alt="technical skill radar chart">
+</picture>
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<!-- Live language distribution across repositories -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+  <img src="assets/radar-langs-dark.svg" width="400" alt="language radar chart">
+</picture>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<div align="center">
+
+## `~/` contribution calendar
+
+<!-- Generated by GitHub workflow -->
+<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
+
+<br><br>
+
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anik-ug/anik-ug/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anik-ug/anik-ug/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/anik-ug/anik-ug/output/snake.svg" width="100%" alt="snake eating the contribution graph">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` the numbers
+
+<!-- Custom GitHub statistics card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
+  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
+</picture>
+
+<br>
+
+<!-- Language statistics -->
+<img src="assets/metrics.languages.svg" height="165" alt="most used languages">
+
+<br><br>
+
+<!-- GitHub achievements -->
+<img src="assets/metrics.achievements.svg" width="90%" alt="GitHub achievements">
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` selected work
+
+<!--
+Project cards generated from assets/projects.json.
+Replace repository names below with your actual repositories.
+-->
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<a href="https://github.com/anik-ug">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-patient-management-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/card-patient-management-light.svg">
+    <img src="assets/card-patient-management-dark.svg" width="420" alt="Patient Management Application">
+  </picture>
+</a>
+
+</td>
+
+<td width="50%">
+
+<a href="https://github.com/anik-ug">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-project-2-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/card-project-2-light.svg">
+    <img src="assets/card-project-2-dark.svg" width="420" alt="Backend Project">
+  </picture>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<a href="https://github.com/anik-ug">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-project-3-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/card-project-3-light.svg">
+    <img src="assets/card-project-3-dark.svg" width="420" alt="Full Stack Project">
+  </picture>
+</a>
+
+</td>
+
+<td width="50%">
+
+<a href="https://github.com/anik-ug">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-project-4-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/card-project-4-light.svg">
+    <img src="assets/card-project-4-dark.svg" width="420" alt="Java Project">
+  </picture>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+<sub>
+
+| project | description | stack |
+|---|---|---|
+| **Patient Management Application** | Healthcare management system with patient records, appointments, REST APIs, validation, and database integration | `Java` `Spring Boot` `MySQL` `REST APIs` |
+| **Backend Systems** | Backend applications focused on clean architecture, authentication, API development, and data persistence | `Java` `Spring Boot` `JPA/Hibernate` `JWT` |
+| **Full Stack Applications** | End-to-end web applications with modern frontend and backend integration | `React` `Node.js` `Express.js` `MongoDB` |
+| **DSA & Problem Solving** | 600+ problems solved across competitive programming platforms | `C++` `Java` `Algorithms` |
+
+</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>
+`01100010 01110101 01101001 01101100 01100100 00100000 01110011 01101111 01101100 01110110 01100101 00100000 01101100 01100101 01100001 01110010 01101110 00100000 01110010 01100101 01110000 01100101 01100001 01110100`
+</sub>
+
+<br><br>
+
+<sub>build · solve · learn · repeat</sub>
+
+</div>
