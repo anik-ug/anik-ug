@@ -1,254 +1,167 @@
 <div align="center">
-
-<!-- PORTRAIT
-     Add your image as assets/anik.png and generate the dot-matrix SVG.
-     Example:
-       python scripts/dotify.py assets/anik.png -o assets/portrait \
-         --cols 100 --equalize --detail 0.5 --color
--->
-<img src="assets/portrait.svg" width="300" alt="Anik Kumar, rendered as a dot matrix">
-
-<br>
-
-<!-- NAME / TAGLINE -->
-<a href="https://github.com/anik-ug">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Anik+Kumar;Backend+Developer+%26+Full+Stack+Engineer;Java+%7C+Spring+Boot+%7C+MERN+Stack;01100011+01101111+01100100+01100101" alt="typing banner">
-</a>
-
-<br>
-
-<!-- SOCIALS -->
+<img src="assets/portrait.svg" width="230" alt="Anik Kumar">
+<h1>Hi 👋, I'm Anik Kumar</h1>
+<h3>Backend Developer | Java & Spring Boot | Full Stack Engineer</h3>
 <a href="https://www.linkedin.com/in/anik-kumar-6a8397287/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:anik.kumar.iiitr@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://github.com/anik-ug">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<!-- Add these when you have public profiles -->
-<!--
-<a href="YOUR_LEETCODE_LINK">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-</a>
-
-<a href="YOUR_GFG_LINK">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
-</a>
--->
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=anik-ug&style=flat&color=39d353&label=profile+views" alt="profile views">
-
+<img src="https://komarev.com/ghpvc/?username=anik-ug&style=flat-square&color=39d353&label=Profile+Views" />
 </div>
 
----
+⸻
 
-## `~/` whoami
+👨‍💻 About Me
 
-```console
-$ cat about.txt
-```
+Anik Kumar
+Backend Developer & Full Stack Engineer
 
-Hi, I'm **Anik Kumar**. I build backend systems, design APIs, and occasionally spend too much time optimizing solutions that already passed all test cases.
+* 🎓 Final-year B.Tech student at IIIT Ranchi
+* 🚀 Building backend systems and scalable REST APIs
+* ☕ Primary stack: Java, Spring Boot, PostgreSQL, MongoDB
+* 🌐 Also experienced with the MERN Stack
+* 🧠 Solved 600+ DSA problems
+* 🌱 Currently exploring Microservices, System Design, Docker, Kubernetes & Cloud
+* 💡 Interested in Backend Engineering and Distributed Systems
 
-- 🎓 Final-year B.Tech student at **IIIT Ranchi**
-- 🚀 Building scalable applications with **Java, Spring Boot, and the MERN Stack**
-- 🧠 Solved **600+ DSA problems** across LeetCode and GeeksforGeeks
-- 🌱 Currently learning **Microservices, System Design, Kubernetes, and Cloud Architecture**
-- 💻 Interested in backend engineering, distributed systems, and building production-ready software
-- ☕ Fun fact: **I turn caffeine into code and debugging sessions into learning experiences.**
+⸻
 
-<br>
+🛠 Tech Stack
+
+Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
+</p>
+
+Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,postgres,mongodb,mysql" />
+</p>
+
+Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,nginx,postman,idea,vscode" />
+</p>
+
+⸻
+
+📊 GitHub Activity
 
 <div align="center">
-
-## `~/` toolbox
-
-<img src="https://skillicons.dev/icons?i=java,js,python,c,spring,react,nodejs,express,postgres,mongodb,docker,kubernetes,aws,nginx,linux,git,github,postman,idea,vscode&perline=10" alt="tech stack">
-
+<img src="https://github-readme-stats.vercel.app/api?username=anik-ug&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anik-ug&theme=github-dark-blue&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik-ug&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
----
+⸻
+
+🏆 GitHub Trophies
 
 <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=anik-ug&theme=darkhub&no-frame=true&row=1&column=6" />
+</div>
 
-## `~/` skill radar
+⸻
+
+🚀 Featured Projects
 
 <table>
 <tr>
+<td width="50%">
 
-<td width="50%" align="center" valign="middle">
+🏥 Patient Management Application
 
-<!-- Self-rated technical skill radar -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-  <img src="assets/radar-dark.svg" width="400" alt="technical skill radar chart">
-</picture>
+Backend application for managing patients, appointments, and healthcare records.
 
-</td>
+Tech Stack
 
-<td width="50%" align="center" valign="middle">
+Java Spring Boot JPA MySQL REST APIs
 
-<!-- Live language distribution across repositories -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-  <img src="assets/radar-langs-dark.svg" width="400" alt="language radar chart">
-</picture>
+🔗 View Repository
 
 </td>
+<td width="50%">
 
+💻 Backend Development Projects
+
+Collection of backend applications focused on REST APIs, authentication, database design, and clean architecture.
+
+Tech Stack
+
+Java Spring Boot Hibernate JWT PostgreSQL
+
+🔗 View Projects
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+🌐 Full Stack Applications
+
+End-to-end applications built with modern frontend and backend technologies.
+
+Tech Stack
+
+React Node.js Express.js MongoDB
+
+🔗 View Projects
+
+</td>
+<td width="50%">
+
+🧠 Data Structures & Algorithms
+
+Solved 600+ problems across various competitive programming platforms.
+
+Focus Areas
+
+Arrays Graphs DP Trees Algorithms
+
+</td>
 </tr>
 </table>
 
+⸻
+
+🐍 Contribution Graph
+
+<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/anik-ug/anik-ug/output/snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/anik-ug/anik-ug/output/snake.svg"
+  />
 </div>
 
----
+⸻
 
 <div align="center">
 
-## `~/` contribution calendar
+💭 Developer Mindset
 
-<!-- Generated by GitHub workflow -->
-<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
-
-<br><br>
-
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anik-ug/anik-ug/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anik-ug/anik-ug/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/anik-ug/anik-ug/output/snake.svg" width="100%" alt="snake eating the contribution graph">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## `~/` the numbers
-
-<!-- Custom GitHub statistics card -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
-  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
-</picture>
+“First, solve the problem. Then, write the clean solution.”
 
 <br>
 
-<!-- Language statistics -->
-<img src="assets/metrics.languages.svg" height="165" alt="most used languages">
-
-<br><br>
-
-<!-- GitHub achievements -->
-<img src="assets/metrics.achievements.svg" width="90%" alt="GitHub achievements">
-
-</div>
-
----
-
-<div align="center">
-
-## `~/` selected work
-
-<!--
-Project cards generated from assets/projects.json.
-Replace repository names below with your actual repositories.
--->
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-<a href="https://github.com/anik-ug">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-patient-management-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/card-patient-management-light.svg">
-    <img src="assets/card-patient-management-dark.svg" width="420" alt="Patient Management Application">
-  </picture>
-</a>
-
-</td>
-
-<td width="50%">
-
-<a href="https://github.com/anik-ug">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-project-2-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/card-project-2-light.svg">
-    <img src="assets/card-project-2-dark.svg" width="420" alt="Backend Project">
-  </picture>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<a href="https://github.com/anik-ug">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-project-3-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/card-project-3-light.svg">
-    <img src="assets/card-project-3-dark.svg" width="420" alt="Full Stack Project">
-  </picture>
-</a>
-
-</td>
-
-<td width="50%">
-
-<a href="https://github.com/anik-ug">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-project-4-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/card-project-4-light.svg">
-    <img src="assets/card-project-4-dark.svg" width="420" alt="Java Project">
-  </picture>
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-<sub>
-
-| project | description | stack |
-|---|---|---|
-| **Patient Management Application** | Healthcare management system with patient records, appointments, REST APIs, validation, and database integration | `Java` `Spring Boot` `MySQL` `REST APIs` |
-| **Backend Systems** | Backend applications focused on clean architecture, authentication, API development, and data persistence | `Java` `Spring Boot` `JPA/Hibernate` `JWT` |
-| **Full Stack Applications** | End-to-end web applications with modern frontend and backend integration | `React` `Node.js` `Express.js` `MongoDB` |
-| **DSA & Problem Solving** | 600+ problems solved across competitive programming platforms | `C++` `Java` `Algorithms` |
-
-</sub>
-
-</div>
-
----
-
-<div align="center">
-
-<sub>
-`01100010 01110101 01101001 01101100 01100100 00100000 01110011 01101111 01101100 01110110 01100101 00100000 01101100 01100101 01100001 01110010 01101110 00100000 01110010 01100101 01110000 01100101 01100001 01110100`
-</sub>
-
-<br><br>
-
-<sub>build · solve · learn · repeat</sub>
+Build • Learn • Debug • Repeat 🚀
 
 </div>
