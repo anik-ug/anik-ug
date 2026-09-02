@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/portrait.svg" width="230" alt="Anik Kumar">
+<!-- <img src="assets/portrait.svg" width="230" alt="Anik Kumar"> -->
 <h1>Hi 👋, I'm Anik Kumar</h1>
 <h3>Software Developer | Java & Spring Boot | MERN Stack</h3>
 <a href="https://www.linkedin.com/in/anik-kumar-6a8397287/">
@@ -61,9 +61,10 @@ DevOps & Tools
 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anik-ug&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anik-ug&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=anik-ug&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anik-ug&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik-ug&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anik-ug&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 ⸻
