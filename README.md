@@ -61,18 +61,10 @@ DevOps & Tools
 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anik-ug&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anik-ug&show_icons=true&theme=github_dark-blue&hide_border=true" height="165" alt="GitHub Stats" />
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=anik-ug&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anik-ug&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anik-ug&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
-</div>
-
-⸻
-
-🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anik-ug&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anik-ug&layout=compact&theme=github_dark-blue&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 ⸻
