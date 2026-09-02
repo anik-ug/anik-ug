@@ -1,0 +1,168 @@
+<div align="center">
+<!-- <img src="assets/portrait.svg" width="230" alt="Anik Kumar"> -->
+<h1>Hi 👋, I'm Anik Kumar</h1>
+<h3>Software Developer | Java & Spring Boot | MERN Stack</h3>
+<a href="https://www.linkedin.com/in/anik-kumar-6a8397287/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:anik.kumar.iiitr@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/anik-ug">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=anik-ug&style=flat-square&color=39d353&label=Profile+Views" alt="Profile Views" />
+</div>
+
+⸻
+
+👨‍💻 About Me
+
+Anik Kumar
+Software Developer | Backend & Full Stack Engineer
+
+* 🎓 Final-year B.Tech student at IIIT Ranchi
+* 💻 Primary tech stacks: Java & Spring Boot and the MERN Stack
+* 🚀 Building scalable backend systems, REST APIs, and full-stack web applications
+* 🧠 Solved 600+ DSA problems across LeetCode and GeeksforGeeks
+* 🌱 Currently exploring Microservices, System Design, Docker, Kubernetes, and Cloud
+* 💡 Interested in Backend Engineering, Distributed Systems, and Scalable Software Architecture
+
+⸻
+
+🛠 Tech Stack
+
+Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
+</p>
+
+Java & Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,postgres,mongodb,mysql" />
+</p>
+
+MERN Stack & Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,tailwind" />
+</p>
+
+DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,nginx,postman,idea,vscode" />
+</p>
+
+⸻
+
+📊 GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anik-ug&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=anik-ug&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" /> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anik-ug&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anik-ug&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+</div>
+
+⸻
+
+🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=anik-ug&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+⸻
+
+🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🏥 Patient Management Application
+
+A backend healthcare management system for managing patients, appointments, and medical records.
+
+Tech Stack
+
+Java Spring Boot JPA MySQL REST APIs
+
+🔗 View Repository
+
+</td>
+<td width="50%" valign="top">
+
+💻 Java & Spring Boot Projects
+
+Backend applications focused on REST APIs, authentication, database design, clean architecture, and scalable services.
+
+Tech Stack
+
+Java Spring Boot Hibernate JWT PostgreSQL
+
+🔗 View Projects
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🌐 MERN Stack Applications
+
+End-to-end web applications built with modern frontend and backend technologies.
+
+Tech Stack
+
+MongoDB Express.js React.js Node.js
+
+🔗 View Projects
+
+</td>
+<td width="50%" valign="top">
+
+🧠 Data Structures & Algorithms
+
+Solved 600+ problems across LeetCode and GeeksforGeeks, covering core data structures and algorithms.
+
+Focus Areas
+
+Arrays Trees Graphs Dynamic Programming Algorithms
+
+</td>
+</tr>
+</table>
+
+⸻
+
+🐍 Contribution Graph
+
+<div align="center">
+<picture>
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/anik-ug/anik-ug/output/snake-dark.svg"
+/>
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/anik-ug/anik-ug/output/snake.svg"
+/>
+</picture>
+</div>
+
+⸻
+
+<div align="center">
+
+💭 Developer Mindset
+
+“First, solve the problem. Then, write the clean solution.”
+
+<br>
+
+Build • Learn • Debug • Repeat 🚀
+
+</div>
