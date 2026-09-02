@@ -1,17 +1,17 @@
 <div align="center">
 <img src="assets/portrait.svg" width="230" alt="Anik Kumar">
 <h1>Hi 👋, I'm Anik Kumar</h1>
-<h3>Backend Developer | Java & Spring Boot | Full Stack Engineer</h3>
+<h3>Software Developer | Java & Spring Boot | MERN Stack</h3>
 <a href="https://www.linkedin.com/in/anik-kumar-6a8397287/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:anik.kumar.iiitr@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/anik-ug">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=anik-ug&style=flat-square&color=39d353&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=anik-ug&style=flat-square&color=39d353&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ⸻
@@ -19,15 +19,14 @@
 👨‍💻 About Me
 
 Anik Kumar
-Backend Developer & Full Stack Engineer
+Software Developer | Backend & Full Stack Engineer
 
 * 🎓 Final-year B.Tech student at IIIT Ranchi
-* 🚀 Building backend systems and scalable REST APIs
-* ☕ Primary stack: Java, Spring Boot, PostgreSQL, MongoDB
-* 🌐 Also experienced with the MERN Stack
-* 🧠 Solved 600+ DSA problems
-* 🌱 Currently exploring Microservices, System Design, Docker, Kubernetes & Cloud
-* 💡 Interested in Backend Engineering and Distributed Systems
+* 💻 Primary tech stacks: Java & Spring Boot and the MERN Stack
+* 🚀 Building scalable backend systems, REST APIs, and full-stack web applications
+* 🧠 Solved 600+ DSA problems across LeetCode and GeeksforGeeks
+* 🌱 Currently exploring Microservices, System Design, Docker, Kubernetes, and Cloud
+* 💡 Interested in Backend Engineering, Distributed Systems, and Scalable Software Architecture
 
 ⸻
 
@@ -36,25 +35,25 @@ Backend Developer & Full Stack Engineer
 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
 </p>
 
-Backend & Databases
+Java & Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,postgres,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,postgres,mongodb,mysql" />
 </p>
 
-Frontend
+MERN Stack & Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,tailwind" />
 </p>
 
 DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,nginx,postman,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,nginx,postman,idea,vscode" />
 </p>
 
 ⸻
@@ -62,9 +61,9 @@ DevOps & Tools
 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anik-ug&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anik-ug&theme=github-dark-blue&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik-ug&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=anik-ug&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anik-ug&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik-ug&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ⸻
@@ -72,7 +71,7 @@ DevOps & Tools
 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anik-ug&theme=darkhub&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=anik-ug&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ⸻
@@ -81,11 +80,11 @@ DevOps & Tools
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 🏥 Patient Management Application
 
-Backend application for managing patients, appointments, and healthcare records.
+A backend healthcare management system for managing patients, appointments, and medical records.
 
 Tech Stack
 
@@ -94,11 +93,11 @@ Java Spring Boot JPA MySQL REST APIs
 🔗 View Repository
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-💻 Backend Development Projects
+💻 Java & Spring Boot Projects
 
-Collection of backend applications focused on REST APIs, authentication, database design, and clean architecture.
+Backend applications focused on REST APIs, authentication, database design, clean architecture, and scalable services.
 
 Tech Stack
 
@@ -109,28 +108,28 @@ Java Spring Boot Hibernate JWT PostgreSQL
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-🌐 Full Stack Applications
+🌐 MERN Stack Applications
 
-End-to-end applications built with modern frontend and backend technologies.
+End-to-end web applications built with modern frontend and backend technologies.
 
 Tech Stack
 
-React Node.js Express.js MongoDB
+MongoDB Express.js React.js Node.js
 
 🔗 View Projects
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 🧠 Data Structures & Algorithms
 
-Solved 600+ problems across various competitive programming platforms.
+Solved 600+ problems across LeetCode and GeeksforGeeks, covering core data structures and algorithms.
 
 Focus Areas
 
-Arrays Graphs DP Trees Algorithms
+Arrays Trees Graphs Dynamic Programming Algorithms
 
 </td>
 </tr>
@@ -150,6 +149,7 @@ Arrays Graphs DP Trees Algorithms
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/anik-ug/anik-ug/output/snake.svg"
   />
+</picture>
 </div>
 
 ⸻
