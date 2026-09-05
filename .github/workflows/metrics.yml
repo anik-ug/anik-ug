@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  achievements:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Achievements
